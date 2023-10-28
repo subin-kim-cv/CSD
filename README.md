@@ -1,5 +1,5 @@
 # CSD
-Official implementation of the paper **[Collaborative Score Distillation for Consistent Visual Synthesis](https://subin-kim-cv.github.io/CSD/)** (NeurIPS 2023).
+Official implementation of the paper **[Collaborative Score Distillation for Consistent Visual Editing](https://subin-kim-cv.github.io/CSD/)** (NeurIPS 2023).
 
 Code will be released soon.
 
