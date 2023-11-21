@@ -90,7 +90,7 @@ python csdedit_video.py --device 0 --svgd --fp16 \
 
 
 ## 3D Scene Editing
-For 3D editing, go to [Instruct-NeRF2NeRF] (https://github.com/ayaanzhaque/instruct-nerf2nerf), and modify the [code](https://github.com/ayaanzhaque/instruct-nerf2nerf/blob/8bc8bf9c0f523394d4dabea8c3f7b37f412c5aa9/in2n/in2n_pipeline.py#L161) to the CSD-Edit implementation of image editing of multiple view images.
+For 3D editing, go to [Instruct-NeRF2NeRF](https://github.com/ayaanzhaque/instruct-nerf2nerf), and modify the [code](https://github.com/ayaanzhaque/instruct-nerf2nerf/blob/8bc8bf9c0f523394d4dabea8c3f7b37f412c5aa9/in2n/in2n_pipeline.py#L161) to the CSD-Edit implementation of image editing of multiple view images.
 
 
 ## Citation
