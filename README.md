@@ -85,7 +85,7 @@ python csdedit_video.py --device 0 --svgd --fp16 \
 --rows 2 --cols 12 --svgd --num_steps 100 
 ```
 <p align="center">
-    <img src=assets/break/outputs.gif width="900"> 
+    <img src=assets/break/outputs.gif width="500"> 
 </p>
 
 
