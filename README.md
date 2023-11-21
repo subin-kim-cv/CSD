@@ -9,7 +9,7 @@ Official implementation of the paper **[Collaborative Score Distillation for Con
 [Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html)<sup>1</sup>.  
 <sup>1</sup>KAIST, <sup>2</sup>Google Research  
 [paper](https://subin-kim-cv.github.io/CSD/resources/kim2023csd.pdf) | [project page](https://subin-kim-cv.github.io/CSD/)
-<!-- | [arXiv](https://arxiv.org/abs/2307.04787) -->
+| [arXiv](https://arxiv.org/abs/2307.04787)
 
 **TL;DR**: Consistent zero-shot visual synthesis across various and complex visual modalities
 
