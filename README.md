@@ -89,9 +89,6 @@ python csdedit_video.py --device 0 --svgd --fp16 \
 </p>
 
 
-## 3D Scene Editing
-We 
-
 
 ## Citation
 ```
